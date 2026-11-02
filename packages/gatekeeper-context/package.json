@@ -22,7 +22,7 @@
     "capnweb-validate": "0.2.1",
     "isomorphic-git": "^1.40.0",
     "yaml": "^2.9.0",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudflare/kumo": "^2.9.0",
